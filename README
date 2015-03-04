@@ -1,5 +1,5 @@
-This is a C library for Raspberry Pi (RPi). It provides access to 
-GPIO and other IO functions on the Broadcom BCM 2835 chip.
-allowing access to the 
-26 pin ISE plug on the RPi board so you can control and interface with various
-external devices.
+This is a C library for Banana Pro. It provides access to 
+GPIO and other IO functions on the A20 chip.
+Allowing access to the 40 pins ISE plug on the Banana Pro board so you can control and interface with various external devices.
+The library is modifed based on the original BCM2835 lib for Raspberry Pi, all the API function name is the same, so we can use all the examples from the original BCM2835 directly.
+Any questoin you can post on LeMaker forum http://www.lemaker.org/ .  
